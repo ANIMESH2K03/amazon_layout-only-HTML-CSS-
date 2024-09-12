@@ -150,12 +150,15 @@ font-size: larger;
 .flag{
     height: 40%;
     width: 30%;
+    background-image: url('./pic/pictures/india.png');
+    background-size: cover;
+    background-position: 50% 50%;
 }
-.flag img{
+/* .flag img{
     height: 100%;
     width: 100%;
     background-size: cover;
-}
+} */
 
 .language{
     height: 40%;
