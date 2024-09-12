@@ -1,7 +1,7 @@
 # this is a basic layout of amazon.
 
-# in this project i practice HTML & CSS .
+- use git and github together first time.
 
-# use git and github together first time.
+- i practice HTML & CSS .
 
-# thankyou for visiting my github account.
+- thankyou for visiting my github account.
