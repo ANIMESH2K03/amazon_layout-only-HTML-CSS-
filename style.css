@@ -991,10 +991,10 @@ footer{
         height: 100%;
         aspect-ratio: 16/9;
         max-width: 95px;
-        background-image: url('./pic/pictures_logo.png');
+        background-image: url('./pic/pictures/amazon_logo.png');
         background-size: contain;
         background-repeat: no-repeat;
-        background-position: 0% 60%;
+        background-position: 50% 60%;
     }
     .logo_sec_2nd{
         width: 50%;
